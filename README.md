@@ -1,4 +1,4 @@
-# Tp1-Progra3
+# Tp1-Progra3 (MVC-WindowBuilder)
 ## Intruduccion
 El presente informe tiene como objetivo exponer, de forma breve, el desarrollo de la
 aplicación “juegos aritméticos”, el cual consisten en rellenar una matriz con números de formar
